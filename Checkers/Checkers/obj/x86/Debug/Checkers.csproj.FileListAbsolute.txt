@@ -1,0 +1,5 @@
+/Users/pshrivas/Documents/Pragati/PragatiD/Fall2017/ArtificialIntelligence/Project/Code/Checkers/Checkers/bin/Debug/Checkers.exe
+/Users/pshrivas/Documents/Pragati/PragatiD/Fall2017/ArtificialIntelligence/Project/Code/Checkers/Checkers/bin/Debug/Checkers.pdb
+/Users/pshrivas/Documents/Pragati/PragatiD/Fall2017/ArtificialIntelligence/Project/Code/Checkers/Checkers/obj/x86/Debug/Checkers.csproj.CoreCompileInputs.cache
+/Users/pshrivas/Documents/Pragati/PragatiD/Fall2017/ArtificialIntelligence/Project/Code/Checkers/Checkers/obj/x86/Debug/Checkers.exe
+/Users/pshrivas/Documents/Pragati/PragatiD/Fall2017/ArtificialIntelligence/Project/Code/Checkers/Checkers/obj/x86/Debug/Checkers.pdb
